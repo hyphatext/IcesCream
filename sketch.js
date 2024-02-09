@@ -42,10 +42,10 @@ function draw() {
   //const size = width * 0.3;
   //ellipse(width/2, height/2, 100, 100);
   
-  //FRAME
-  // rectMode(CENTER);
-  // rect(width/2, height/2, 300, 500)
-  //rect(width/2, height/2 + 15, 110, 80);
+  // FRAME
+  rectMode(CENTER);
+  rect(width/2, height/2, 300, 500)
+  // rect(width/2, height/2 + 15, 110, 80);
   //(left top corner x position, y position, width, height)
   
   //CHERRY STEM
