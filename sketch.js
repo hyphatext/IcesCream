@@ -43,8 +43,8 @@ function draw() {
   //ellipse(width/2, height/2, 100, 100);
   
   //FRAME
-  rectMode(CENTER);
-  rect(width/2, height/2, 300, 500)
+  // rectMode(CENTER);
+  // rect(width/2, height/2, 300, 500)
   //rect(width/2, height/2 + 15, 110, 80);
   //(left top corner x position, y position, width, height)
   
